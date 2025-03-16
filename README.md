@@ -15,18 +15,18 @@ This is my website that I created using Vue 3 and Vite. I made this a single-pag
 ![Image 3-15-25 at 11 05 PM](https://github.com/user-attachments/assets/2e7e6e3c-8066-4dd2-adf0-a583cec735dc)
 
 # Project Setup
-* Clone the repository
+* Clone the repository -
 git clone https://github.com/your-username/vue3-personal-website.git
 
-* Navigate to project directory
+* Navigate to project directory -
 cd personal-website
 
-* Install dependencies
+* Install dependencies -
 npm install
 
-* Run development server
+* Run development server -
 npm run dev
 
-* Build for production
+* Build for production -
 npm run build
 
