@@ -16,7 +16,7 @@ This is my website that I created using Vue 3 and Vite. I made this a single-pag
 
 # Project Setup
 * Clone the repository
-git clone [https://github.com/your-username/vue3-personal-website.git]
+git clone https://github.com/your-username/vue3-personal-website.git
 
 * Navigate to project directory
 cd personal-website
