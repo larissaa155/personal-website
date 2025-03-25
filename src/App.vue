@@ -24,7 +24,7 @@ const counter = ref(0);
 
     <section>
       <h1>Welcome to My Portfolio</h1>
-      <p>Hi, I'm a Vue 3 Developer passionate about web development.</p>
+      <p>Hello! I'm a Vue 3 developer.</p>
     </section>
 
 
